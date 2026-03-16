@@ -1,0 +1,5 @@
+[
+  {"city":"Moscow",    "temp":-12, "condition":"snow"},
+  {"city":"Novi-Sad",  "temp":1,  "condition":"cloudy"},
+  {"city":"Krasnoyarsk",   "temp":2, "condition":"cloudy"}
+]

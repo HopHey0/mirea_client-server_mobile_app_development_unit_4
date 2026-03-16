@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pract_13</string>
+    <string name="rate_title">Курс USD -> RUB</string>
+    <string name="update_rate_button_text">Обновить сейчас</string>
+</resources>

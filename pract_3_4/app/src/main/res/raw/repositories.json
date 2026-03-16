@@ -1,0 +1,702 @@
+[
+  {
+    "id": 546465,
+    "full_name": "OpenAI/server-1",
+    "description": "Server project written in TypeScript",
+    "stargazers_count": 73697,
+    "language": "TypeScript"
+  },
+  {
+    "id": 268442,
+    "full_name": "Uber/mobile-2",
+    "description": "Mobile project written in Go",
+    "stargazers_count": 62999,
+    "language": "Go"
+  },
+  {
+    "id": 283368,
+    "full_name": "Microsoft/api-3",
+    "description": "Api project written in Swift",
+    "stargazers_count": 34152,
+    "language": "Swift"
+  },
+  {
+    "id": 409450,
+    "full_name": "Facebook/mobile-4",
+    "description": "Mobile project written in Go",
+    "stargazers_count": 41454,
+    "language": "Go"
+  },
+  {
+    "id": 915042,
+    "full_name": "Google/core-5",
+    "description": "Core project written in Swift",
+    "stargazers_count": 46859,
+    "language": "Swift"
+  },
+  {
+    "id": 805073,
+    "full_name": "Facebook/engine-6",
+    "description": "Engine project written in Kotlin",
+    "stargazers_count": 57289,
+    "language": "Kotlin"
+  },
+  {
+    "id": 799583,
+    "full_name": "Amazon/frontend-7",
+    "description": "Frontend project written in Java",
+    "stargazers_count": 36237,
+    "language": "Java"
+  },
+  {
+    "id": 337447,
+    "full_name": "Microsoft/frontend-8",
+    "description": "Frontend project written in Swift",
+    "stargazers_count": 32099,
+    "language": "Swift"
+  },
+  {
+    "id": 473229,
+    "full_name": "Facebook/core-9",
+    "description": "Core project written in Swift",
+    "stargazers_count": 71038,
+    "language": "Swift"
+  },
+  {
+    "id": 308665,
+    "full_name": "Facebook/engine-10",
+    "description": "Engine project written in Swift",
+    "stargazers_count": 25100,
+    "language": "Swift"
+  },
+  {
+    "id": 726403,
+    "full_name": "Facebook/engine-11",
+    "description": "Engine project written in Go",
+    "stargazers_count": 92151,
+    "language": "Go"
+  },
+  {
+    "id": 975262,
+    "full_name": "Uber/backend-12",
+    "description": "Backend project written in JavaScript",
+    "stargazers_count": 70218,
+    "language": "JavaScript"
+  },
+  {
+    "id": 670469,
+    "full_name": "OpenAI/api-13",
+    "description": "Api project written in C++",
+    "stargazers_count": 96812,
+    "language": "C++"
+  },
+  {
+    "id": 776194,
+    "full_name": "Amazon/core-14",
+    "description": "Core project written in Kotlin",
+    "stargazers_count": 3933,
+    "language": "Kotlin"
+  },
+  {
+    "id": 144466,
+    "full_name": "Uber/cli-15",
+    "description": "Cli project written in C++",
+    "stargazers_count": 75483,
+    "language": "C++"
+  },
+  {
+    "id": 147987,
+    "full_name": "OpenAI/frontend-16",
+    "description": "Frontend project written in Swift",
+    "stargazers_count": 50992,
+    "language": "Swift"
+  },
+  {
+    "id": 275411,
+    "full_name": "Netflix/sdk-17",
+    "description": "Sdk project written in Kotlin",
+    "stargazers_count": 92281,
+    "language": "Kotlin"
+  },
+  {
+    "id": 390770,
+    "full_name": "Microsoft/engine-18",
+    "description": "Engine project written in TypeScript",
+    "stargazers_count": 92386,
+    "language": "TypeScript"
+  },
+  {
+    "id": 407173,
+    "full_name": "Facebook/engine-19",
+    "description": "Engine project written in Python",
+    "stargazers_count": 90249,
+    "language": "Python"
+  },
+  {
+    "id": 608008,
+    "full_name": "Google/core-20",
+    "description": "Core project written in Go",
+    "stargazers_count": 82035,
+    "language": "Go"
+  },
+  {
+    "id": 112910,
+    "full_name": "Microsoft/toolkit-21",
+    "description": "Toolkit project written in Go",
+    "stargazers_count": 45751,
+    "language": "Go"
+  },
+  {
+    "id": 311859,
+    "full_name": "OpenAI/server-22",
+    "description": "Server project written in Java",
+    "stargazers_count": 83814,
+    "language": "Java"
+  },
+  {
+    "id": 251620,
+    "full_name": "Netflix/engine-23",
+    "description": "Engine project written in Go",
+    "stargazers_count": 51931,
+    "language": "Go"
+  },
+  {
+    "id": 513229,
+    "full_name": "Netflix/core-24",
+    "description": "Core project written in Python",
+    "stargazers_count": 13653,
+    "language": "Python"
+  },
+  {
+    "id": 221556,
+    "full_name": "Netflix/engine-25",
+    "description": "Engine project written in Java",
+    "stargazers_count": 41853,
+    "language": "Java"
+  },
+  {
+    "id": 911471,
+    "full_name": "Microsoft/cli-26",
+    "description": "Cli project written in Go",
+    "stargazers_count": 13677,
+    "language": "Go"
+  },
+  {
+    "id": 204322,
+    "full_name": "Microsoft/cli-27",
+    "description": "Cli project written in Go",
+    "stargazers_count": 67643,
+    "language": "Go"
+  },
+  {
+    "id": 302685,
+    "full_name": "Uber/backend-28",
+    "description": "Backend project written in TypeScript",
+    "stargazers_count": 45642,
+    "language": "TypeScript"
+  },
+  {
+    "id": 995394,
+    "full_name": "Facebook/api-29",
+    "description": "Api project written in Kotlin",
+    "stargazers_count": 58476,
+    "language": "Kotlin"
+  },
+  {
+    "id": 874012,
+    "full_name": "Amazon/server-30",
+    "description": "Server project written in Kotlin",
+    "stargazers_count": 9233,
+    "language": "Kotlin"
+  },
+  {
+    "id": 537837,
+    "full_name": "Facebook/backend-31",
+    "description": "Backend project written in Kotlin",
+    "stargazers_count": 20552,
+    "language": "Kotlin"
+  },
+  {
+    "id": 584682,
+    "full_name": "Google/framework-32",
+    "description": "Framework project written in TypeScript",
+    "stargazers_count": 51445,
+    "language": "TypeScript"
+  },
+  {
+    "id": 386643,
+    "full_name": "OpenAI/server-33",
+    "description": "Server project written in C++",
+    "stargazers_count": 14131,
+    "language": "C++"
+  },
+  {
+    "id": 131773,
+    "full_name": "Amazon/frontend-34",
+    "description": "Frontend project written in Swift",
+    "stargazers_count": 10488,
+    "language": "Swift"
+  },
+  {
+    "id": 183130,
+    "full_name": "JetBrains/backend-35",
+    "description": "Backend project written in Go",
+    "stargazers_count": 94083,
+    "language": "Go"
+  },
+  {
+    "id": 650669,
+    "full_name": "Amazon/backend-36",
+    "description": "Backend project written in TypeScript",
+    "stargazers_count": 6272,
+    "language": "TypeScript"
+  },
+  {
+    "id": 378646,
+    "full_name": "Uber/toolkit-37",
+    "description": "Toolkit project written in Swift",
+    "stargazers_count": 90482,
+    "language": "Swift"
+  },
+  {
+    "id": 970294,
+    "full_name": "Google/cli-38",
+    "description": "Cli project written in TypeScript",
+    "stargazers_count": 75256,
+    "language": "TypeScript"
+  },
+  {
+    "id": 884077,
+    "full_name": "Netflix/sdk-39",
+    "description": "Sdk project written in Kotlin",
+    "stargazers_count": 43053,
+    "language": "Kotlin"
+  },
+  {
+    "id": 752250,
+    "full_name": "OpenAI/toolkit-40",
+    "description": "Toolkit project written in TypeScript",
+    "stargazers_count": 49232,
+    "language": "TypeScript"
+  },
+  {
+    "id": 216997,
+    "full_name": "Amazon/backend-41",
+    "description": "Backend project written in Python",
+    "stargazers_count": 66601,
+    "language": "Python"
+  },
+  {
+    "id": 357865,
+    "full_name": "Facebook/api-42",
+    "description": "Api project written in Go",
+    "stargazers_count": 17291,
+    "language": "Go"
+  },
+  {
+    "id": 972714,
+    "full_name": "Netflix/frontend-43",
+    "description": "Frontend project written in Go",
+    "stargazers_count": 23939,
+    "language": "Go"
+  },
+  {
+    "id": 206756,
+    "full_name": "Facebook/engine-44",
+    "description": "Engine project written in JavaScript",
+    "stargazers_count": 76668,
+    "language": "JavaScript"
+  },
+  {
+    "id": 744632,
+    "full_name": "JetBrains/toolkit-45",
+    "description": "Toolkit project written in TypeScript",
+    "stargazers_count": 98138,
+    "language": "TypeScript"
+  },
+  {
+    "id": 327459,
+    "full_name": "OpenAI/framework-46",
+    "description": "Framework project written in TypeScript",
+    "stargazers_count": 8333,
+    "language": "TypeScript"
+  },
+  {
+    "id": 739417,
+    "full_name": "Netflix/mobile-47",
+    "description": "Mobile project written in Python",
+    "stargazers_count": 74109,
+    "language": "Python"
+  },
+  {
+    "id": 309704,
+    "full_name": "Google/sdk-48",
+    "description": "Sdk project written in Go",
+    "stargazers_count": 55035,
+    "language": "Go"
+  },
+  {
+    "id": 836219,
+    "full_name": "Amazon/engine-49",
+    "description": "Engine project written in Swift",
+    "stargazers_count": 40872,
+    "language": "Swift"
+  },
+  {
+    "id": 451753,
+    "full_name": "JetBrains/cli-50",
+    "description": "Cli project written in Python",
+    "stargazers_count": 43243,
+    "language": "Python"
+  },
+  {
+    "id": 316249,
+    "full_name": "Microsoft/core-51",
+    "description": "Core project written in Swift",
+    "stargazers_count": 16498,
+    "language": "Swift"
+  },
+  {
+    "id": 135763,
+    "full_name": "Facebook/core-52",
+    "description": "Core project written in JavaScript",
+    "stargazers_count": 47393,
+    "language": "JavaScript"
+  },
+  {
+    "id": 641174,
+    "full_name": "JetBrains/cli-53",
+    "description": "Cli project written in Swift",
+    "stargazers_count": 81758,
+    "language": "Swift"
+  },
+  {
+    "id": 121487,
+    "full_name": "Netflix/mobile-54",
+    "description": "Mobile project written in JavaScript",
+    "stargazers_count": 84796,
+    "language": "JavaScript"
+  },
+  {
+    "id": 755674,
+    "full_name": "JetBrains/api-55",
+    "description": "Api project written in C++",
+    "stargazers_count": 47125,
+    "language": "C++"
+  },
+  {
+    "id": 197101,
+    "full_name": "Netflix/sdk-56",
+    "description": "Sdk project written in Python",
+    "stargazers_count": 72413,
+    "language": "Python"
+  },
+  {
+    "id": 773363,
+    "full_name": "Netflix/framework-57",
+    "description": "Framework project written in Swift",
+    "stargazers_count": 79938,
+    "language": "Swift"
+  },
+  {
+    "id": 758263,
+    "full_name": "OpenAI/sdk-58",
+    "description": "Sdk project written in Swift",
+    "stargazers_count": 64464,
+    "language": "Swift"
+  },
+  {
+    "id": 516105,
+    "full_name": "Microsoft/backend-59",
+    "description": "Backend project written in Python",
+    "stargazers_count": 6328,
+    "language": "Python"
+  },
+  {
+    "id": 930120,
+    "full_name": "JetBrains/api-60",
+    "description": "Api project written in Kotlin",
+    "stargazers_count": 49543,
+    "language": "Kotlin"
+  },
+  {
+    "id": 267275,
+    "full_name": "Amazon/backend-61",
+    "description": "Backend project written in Go",
+    "stargazers_count": 18539,
+    "language": "Go"
+  },
+  {
+    "id": 392686,
+    "full_name": "Netflix/engine-62",
+    "description": "Engine project written in Go",
+    "stargazers_count": 59828,
+    "language": "Go"
+  },
+  {
+    "id": 327161,
+    "full_name": "Facebook/framework-63",
+    "description": "Framework project written in Java",
+    "stargazers_count": 77595,
+    "language": "Java"
+  },
+  {
+    "id": 653429,
+    "full_name": "JetBrains/framework-64",
+    "description": "Framework project written in Kotlin",
+    "stargazers_count": 65925,
+    "language": "Kotlin"
+  },
+  {
+    "id": 459497,
+    "full_name": "Microsoft/cli-65",
+    "description": "Cli project written in TypeScript",
+    "stargazers_count": 1054,
+    "language": "TypeScript"
+  },
+  {
+    "id": 112587,
+    "full_name": "Amazon/backend-66",
+    "description": "Backend project written in TypeScript",
+    "stargazers_count": 79081,
+    "language": "TypeScript"
+  },
+  {
+    "id": 276068,
+    "full_name": "OpenAI/toolkit-67",
+    "description": "Toolkit project written in TypeScript",
+    "stargazers_count": 25606,
+    "language": "TypeScript"
+  },
+  {
+    "id": 185940,
+    "full_name": "Google/core-68",
+    "description": "Core project written in Kotlin",
+    "stargazers_count": 59494,
+    "language": "Kotlin"
+  },
+  {
+    "id": 890509,
+    "full_name": "OpenAI/mobile-69",
+    "description": "Mobile project written in C++",
+    "stargazers_count": 30682,
+    "language": "C++"
+  },
+  {
+    "id": 880688,
+    "full_name": "Facebook/toolkit-70",
+    "description": "Toolkit project written in TypeScript",
+    "stargazers_count": 54345,
+    "language": "TypeScript"
+  },
+  {
+    "id": 523133,
+    "full_name": "Microsoft/api-71",
+    "description": "Api project written in Kotlin",
+    "stargazers_count": 89054,
+    "language": "Kotlin"
+  },
+  {
+    "id": 578834,
+    "full_name": "Facebook/api-72",
+    "description": "Api project written in C++",
+    "stargazers_count": 13300,
+    "language": "C++"
+  },
+  {
+    "id": 385735,
+    "full_name": "Microsoft/api-73",
+    "description": "Api project written in Go",
+    "stargazers_count": 1955,
+    "language": "Go"
+  },
+  {
+    "id": 109265,
+    "full_name": "Uber/cli-74",
+    "description": "Cli project written in Swift",
+    "stargazers_count": 88395,
+    "language": "Swift"
+  },
+  {
+    "id": 636828,
+    "full_name": "Netflix/mobile-75",
+    "description": "Mobile project written in Java",
+    "stargazers_count": 29242,
+    "language": "Java"
+  },
+  {
+    "id": 117915,
+    "full_name": "Amazon/backend-76",
+    "description": "Backend project written in Kotlin",
+    "stargazers_count": 30298,
+    "language": "Kotlin"
+  },
+  {
+    "id": 475440,
+    "full_name": "Facebook/engine-77",
+    "description": "Engine project written in TypeScript",
+    "stargazers_count": 49890,
+    "language": "TypeScript"
+  },
+  {
+    "id": 543317,
+    "full_name": "Microsoft/sdk-78",
+    "description": "Sdk project written in Python",
+    "stargazers_count": 94226,
+    "language": "Python"
+  },
+  {
+    "id": 266031,
+    "full_name": "OpenAI/frontend-79",
+    "description": "Frontend project written in Python",
+    "stargazers_count": 87592,
+    "language": "Python"
+  },
+  {
+    "id": 215152,
+    "full_name": "Google/frontend-80",
+    "description": "Frontend project written in Go",
+    "stargazers_count": 34978,
+    "language": "Go"
+  },
+  {
+    "id": 888320,
+    "full_name": "Netflix/server-81",
+    "description": "Server project written in Go",
+    "stargazers_count": 87299,
+    "language": "Go"
+  },
+  {
+    "id": 975636,
+    "full_name": "Google/engine-82",
+    "description": "Engine project written in TypeScript",
+    "stargazers_count": 56583,
+    "language": "TypeScript"
+  },
+  {
+    "id": 924441,
+    "full_name": "OpenAI/sdk-83",
+    "description": "Sdk project written in Python",
+    "stargazers_count": 21881,
+    "language": "Python"
+  },
+  {
+    "id": 492034,
+    "full_name": "JetBrains/server-84",
+    "description": "Server project written in C++",
+    "stargazers_count": 49958,
+    "language": "C++"
+  },
+  {
+    "id": 632575,
+    "full_name": "JetBrains/sdk-85",
+    "description": "Sdk project written in Swift",
+    "stargazers_count": 66009,
+    "language": "Swift"
+  },
+  {
+    "id": 868125,
+    "full_name": "Uber/engine-86",
+    "description": "Engine project written in Python",
+    "stargazers_count": 48957,
+    "language": "Python"
+  },
+  {
+    "id": 610659,
+    "full_name": "Netflix/platform-87",
+    "description": "Platform project written in Java",
+    "stargazers_count": 3980,
+    "language": "Java"
+  },
+  {
+    "id": 185630,
+    "full_name": "Uber/platform-88",
+    "description": "Platform project written in Java",
+    "stargazers_count": 38688,
+    "language": "Java"
+  },
+  {
+    "id": 489367,
+    "full_name": "Netflix/server-89",
+    "description": "Server project written in Kotlin",
+    "stargazers_count": 55938,
+    "language": "Kotlin"
+  },
+  {
+    "id": 206914,
+    "full_name": "Uber/backend-90",
+    "description": "Backend project written in Java",
+    "stargazers_count": 63865,
+    "language": "Java"
+  },
+  {
+    "id": 512043,
+    "full_name": "Amazon/sdk-91",
+    "description": "Sdk project written in Python",
+    "stargazers_count": 29703,
+    "language": "Python"
+  },
+  {
+    "id": 354206,
+    "full_name": "Amazon/toolkit-92",
+    "description": "Toolkit project written in Swift",
+    "stargazers_count": 43475,
+    "language": "Swift"
+  },
+  {
+    "id": 952710,
+    "full_name": "Facebook/sdk-93",
+    "description": "Sdk project written in Swift",
+    "stargazers_count": 31493,
+    "language": "Swift"
+  },
+  {
+    "id": 330823,
+    "full_name": "JetBrains/sdk-94",
+    "description": "Sdk project written in JavaScript",
+    "stargazers_count": 47538,
+    "language": "JavaScript"
+  },
+  {
+    "id": 666881,
+    "full_name": "Uber/cli-95",
+    "description": "Cli project written in Java",
+    "stargazers_count": 84516,
+    "language": "Java"
+  },
+  {
+    "id": 494990,
+    "full_name": "Facebook/engine-96",
+    "description": "Engine project written in TypeScript",
+    "stargazers_count": 68621,
+    "language": "TypeScript"
+  },
+  {
+    "id": 581701,
+    "full_name": "Microsoft/core-97",
+    "description": "Core project written in Java",
+    "stargazers_count": 67726,
+    "language": "Java"
+  },
+  {
+    "id": 779560,
+    "full_name": "Uber/server-98",
+    "description": "Server project written in C++",
+    "stargazers_count": 69919,
+    "language": "C++"
+  },
+  {
+    "id": 623715,
+    "full_name": "Google/backend-99",
+    "description": "Backend project written in TypeScript",
+    "stargazers_count": 35948,
+    "language": "TypeScript"
+  },
+  {
+    "id": 237207,
+    "full_name": "Microsoft/core-100",
+    "description": "Core project written in Python",
+    "stargazers_count": 55532,
+    "language": "Python"
+  }
+]

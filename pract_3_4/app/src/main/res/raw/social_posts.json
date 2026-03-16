@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "userId": 3,
+    "title": "Красивый закат сегодня",
+    "body": "Смотрите, какой невероятный цвет неба был вечером!",
+    "avatarUrl": "https://i.pravatar.cc/150?img=1"
+  },
+  {
+    "id": 2,
+    "userId": 3,
+    "title": "Утренний кофе",
+    "body": "Нашёл отличную кофейню рядом с домом.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=4"
+  },
+  {
+    "id": 3,
+    "userId": 4,
+    "title": "Прогулка по городу",
+    "body": "Сегодня гулял по центру и сделал пару фото.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=7"
+  },
+  {
+    "id": 4,
+    "userId": 1,
+    "title": "Новый проект запущен",
+    "body": "Наконец-то завершили разработку и выкатили релиз!",
+    "avatarUrl": "https://i.pravatar.cc/150?img=2"
+  },
+  {
+    "id": 5,
+    "userId": 5,
+    "title": "Вечер с друзьями",
+    "body": "Отлично посидели и пообщались.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=4"
+  },
+  {
+    "id": 6,
+    "userId": 4,
+    "title": "Читаю интересную книгу",
+    "body": "Очень затягивающий сюжет, советую.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=8"
+  },
+  {
+    "id": 7,
+    "userId": 1,
+    "title": "Поездка на природу",
+    "body": "Свежий воздух и тишина — лучший отдых.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=20"
+  },
+  {
+    "id": 8,
+    "userId": 5,
+    "title": "Любимый плейлист",
+    "body": "Собрал подборку любимых треков.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=11"
+  },
+  {
+    "id": 9,
+    "userId": 3,
+    "title": "Рабочий настрой",
+    "body": "Продуктивный день, много всего сделал.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=15"
+  },
+  {
+    "id": 10,
+    "userId": 4,
+    "title": "Спортивное утро",
+    "body": "Пробежка заряжает энергией на весь день.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=15"
+  },
+  {
+    "id": 11,
+    "userId": 5,
+    "title": "Новая статья в блоге",
+    "body": "Опубликовал материал про современные технологии.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=16"
+  },
+  {
+    "id": 12,
+    "userId": 3,
+    "title": "Готовлю что-то вкусное",
+    "body": "Экспериментирую с новым рецептом пасты.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=2"
+  },
+  {
+    "id": 13,
+    "userId": 2,
+    "title": "Осеннее настроение",
+    "body": "Обожаю золотую осень и прохладную погоду.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=3"
+  },
+  {
+    "id": 14,
+    "userId": 3,
+    "title": "Технологии будущего",
+    "body": "ИИ развивается очень быстро, впечатляет.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=5"
+  },
+  {
+    "id": 15,
+    "userId": 4,
+    "title": "Мой новый питомец",
+    "body": "Познакомьтесь, это мой новый друг 🐶",
+    "avatarUrl": "https://i.pravatar.cc/150?img=5"
+  }
+]

@@ -1,0 +1,1 @@
+com.example.pract_9.test

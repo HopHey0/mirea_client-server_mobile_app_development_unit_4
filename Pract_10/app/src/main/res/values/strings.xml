@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pract_10</string>
+    <string name="getLocationButtonText">Получить мой адрес</string>
+</resources>

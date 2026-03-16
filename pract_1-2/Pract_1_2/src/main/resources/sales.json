@@ -1,0 +1,7 @@
+{
+  "today": "15-02-2026",
+  "items": [
+    {"product":"Coffee", "qty":42, "revenue":1680},
+    {"product":"Tea",    "qty":19, "revenue":475}
+  ]
+}
