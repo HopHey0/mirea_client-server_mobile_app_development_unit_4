@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pract_12</string>
+    <string name="facts_about_animals_title">Факты о животных</string>
+    <string name="search_text">Ищем интересный факт…</string>
+    <string name="button_load_fact_text">Новый факт</string>
+    <string name="button_loading_fact_text">Ищем…</string>
+</resources>
